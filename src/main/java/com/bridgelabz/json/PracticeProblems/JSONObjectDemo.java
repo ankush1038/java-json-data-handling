@@ -16,7 +16,7 @@ import org.json.JSONObject;
 
             student.put("subjects", subjects);
 
-            System.out.println(student.toString(2)); // Pretty print
+            System.out.println(student.toString(2));
         }
     }
 
