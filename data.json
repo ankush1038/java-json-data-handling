@@ -1,0 +1,9 @@
+{
+  "name": "Ankush Sharma",
+  "email": "ankush@example.com",
+  "age": 22,
+  "address": {
+    "city": "Kalka",
+    "state": "Haryana"
+  }
+}
