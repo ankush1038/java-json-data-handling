@@ -11,7 +11,7 @@ public class MergeJSON {
 
         JSONObject object2 = new JSONObject();
 
-        object2.put("id: ",1038);
+         object2.put("id: ",1038);
         object2.put("email: ", "ankush@gmail.com");
 
         for(String  key : object2.keySet()){
